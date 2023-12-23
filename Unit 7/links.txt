@@ -1,0 +1,77 @@
+
+
+
+pick initial values
+https://medium.com/geekculture/implementing-k-means-clustering-with-k-means-initialization-in-python-7ca5a859d63a
+
+dithering
+https://scipython.com/blog/floyd-steinberg-dithering/
+https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html
+CAN USE numpy to handle array??????????????
+
+
+1st round comparison k=8 ++ vs. original
+----------------------------------------------------------
+total round 43
+total time 156.920568454
+
+total round 76
+total time 264.193014298
+
+2nd
+
+total round 52
+total time 172.342195372
+
+total round 85
+total time 226.692463053
+
+3rd
+total round 35
+total time 116.438578552
+
+total round 77
+total time 225.18360938799998
+
+k=3   original one is faster
+----------------------------------------------------------
+1st
+total round 24
+total time 49.588339769
+
+total round 16
+total time 39.47466843
+
+2nd
+
+total round 17
+total time 35.979664737
+
+3rd
+
+total round 18
+total time 24.642476207
+
+k=16
+----------------------------------------------------------
+1st
+total round 44
+total time 256.97979978
+
+total round 91
+total time 323.048517043
+
+2nd
+total round 50
+total time 158.333424622
+
+total round 122
+total time 545.865623382
+
+3rd
+
+total round 58
+total time 196.656779385
+
+total round 119
+total time 561.3811168240001
