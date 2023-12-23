@@ -1,0 +1,144 @@
+BFS
+Total moves: 14
+        .
+       x x
+      x x x
+     x x x x
+    x x x x x
+        x
+       . x
+      . x x
+     x x x x
+    x x x x x
+        x
+       . x
+      x . .
+     x x x x
+    x x x x x
+        .
+       . .
+      x . x
+     x x x x
+    x x x x x
+        .
+       x .
+      . . x
+     . x x x
+    x x x x x
+        .
+       x x
+      . . .
+     . x x .
+    x x x x x
+        .
+       x x
+      . x .
+     . . x .
+    x . x x x
+        .
+       x x
+      . x .
+     . . x .
+    x x . . x
+        .
+       x x
+      . x .
+     . . x .
+    . . x . x
+        .
+       x x
+      . x x
+     . . . .
+    . . . . x
+        .
+       x .
+      . x .
+     . . . x
+    . . . . x
+        .
+       x .
+      . x x
+     . . . .
+    . . . . .
+        .
+       x .
+      x . .
+     . . . .
+    . . . . .
+        x
+       . .
+      . . .
+     . . . .
+    . . . . .
+DFS
+Total moves: 14
+        .
+       x x
+      x x x
+     x x x x
+    x x x x x
+        x
+       x .
+      x x .
+     x x x x
+    x x x x x
+        x
+       x .
+      x x x
+     x x . x
+    x x . x x
+        x
+       x .
+      x x x
+     x x . x
+    x x x . .
+        x
+       x .
+      x x x
+     x x . x
+    x . . x .
+        x
+       x x
+      x x .
+     x x . .
+    x . . x .
+        x
+       x x
+      . x .
+     x . . .
+    x . x x .
+        x
+       x x
+      . x .
+     x . . .
+    x x . . .
+        x
+       x x
+      . x .
+     x . . .
+    . . x . .
+        x
+       x .
+      . . .
+     x x . .
+    . . x . .
+        .
+       . .
+      x . .
+     x x . .
+    . . x . .
+        .
+       x .
+      . . .
+     . x . .
+    . . x . .
+        .
+       x .
+      x . .
+     . . . .
+    . . . . .
+        x
+       . .
+      . . .
+     . . . .
+    . . . . .

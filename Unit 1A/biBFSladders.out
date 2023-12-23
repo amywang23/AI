@@ -1,0 +1,100 @@
+Time used to generate data structure:  0.011638207999567385
+Length of BFS ladder: 2  Each word in ladder: ['abased', 'abases'] ,  Time: 1.808399974834174e-05 seconds
+abases
+['abased', 'abases']
+[]
+Length of biBFS ladder: 2  Each word in ladder: ['abased', 'abases'] ,  Time: 1.2917000276502222e-05 seconds
+
+Length of BFS ladder: 3  Each word in ladder: ['garden', 'harden', 'harder'] ,  Time: 1.316700036113616e-05 seconds
+harden
+['garden', 'harden']
+['harder']
+Length of biBFS ladder: 3  Each word in ladder: ['garden', 'harden', 'harder'] ,  Time: 1.208300091093406e-05 seconds
+
+Length of BFS ladder: 5  Each word in ladder: ['foiled', 'coiled', 'cooled', 'cooped', 'cooper'] ,  Time: 0.00021262500013108365 seconds
+cooled
+['foiled', 'coiled', 'cooled']
+['cooler', 'cooper']
+Length of biBFS ladder: 5  Each word in ladder: ['foiled', 'coiled', 'cooled', 'cooler', 'cooper'] ,  Time: 4.975000047124922e-05 seconds
+
+Length of BFS ladder: 6  Each word in ladder: ['boiler', 'bowler', 'bowled', 'bawled', 'balled', 'bulled'] ,  Time: 0.00021762500000477303 seconds
+bawled
+['boiler', 'bowler', 'bowled', 'bawled']
+['balled', 'bulled']
+Length of biBFS ladder: 6  Each word in ladder: ['boiler', 'bowler', 'bowled', 'bawled', 'balled', 'bulled'] ,  Time: 0.00011254099990765098 seconds
+
+Length of BFS ladder: 7  Each word in ladder: ['parked', 'barked', 'banked', 'banded', 'bonded', 'bonder', 'yonder'] ,  Time: 0.001608415999726276 seconds
+banded
+['parked', 'barked', 'banked', 'banded']
+['bonded', 'bonder', 'yonder']
+Length of biBFS ladder: 7  Each word in ladder: ['parked', 'barked', 'banked', 'banded', 'bonded', 'bonder', 'yonder'] ,  Time: 0.00019587499991757795 seconds
+
+Length of BFS ladder: 8  Each word in ladder: ['hooked', 'cooked', 'cooled', 'fooled', 'foiled', 'failed', 'railed', 'raided'] ,  Time: 0.0016810839988465887 seconds
+foiled
+['hooked', 'cooked', 'cooled', 'fooled', 'foiled']
+['failed', 'railed', 'raided']
+Length of biBFS ladder: 8  Each word in ladder: ['hooked', 'cooked', 'cooled', 'fooled', 'foiled', 'failed', 'railed', 'raided'] ,  Time: 0.00021933300013188273 seconds
+
+Length of BFS ladder: 9  Each word in ladder: ['broker', 'booker', 'booked', 'cooked', 'corked', 'corded', 'corder', 'colder', 'solder'] ,  Time: 0.001313000000664033 seconds
+corked
+['broker', 'booker', 'booked', 'cooked', 'corked']
+['corker', 'corder', 'colder', 'solder']
+Length of biBFS ladder: 9  Each word in ladder: ['broker', 'booker', 'booked', 'cooked', 'corked', 'corker', 'corder', 'colder', 'solder'] ,  Time: 0.0001937079996423563 seconds
+
+Length of BFS ladder: 10  Each word in ladder: ['basket', 'basked', 'backed', 'packed', 'pecked', 'peaked', 'beaked', 'beamed', 'blamed', 'flamed'] ,  Time: 0.0026562919993011747 seconds
+peaked
+['basket', 'basked', 'backed', 'packed', 'pecked', 'peaked']
+['beaked', 'beamed', 'blamed', 'flamed']
+Length of biBFS ladder: 10  Each word in ladder: ['basket', 'basked', 'backed', 'packed', 'pecked', 'peaked', 'beaked', 'beamed', 'blamed', 'flamed'] ,  Time: 0.000735999999960768 seconds
+
+Length of BFS ladder: 11  Each word in ladder: ['copier', 'copper', 'cooper', 'cooler', 'tooler', 'toiler', 'toiled', 'tailed', 'railed', 'rained', 'ruined'] ,  Time: 0.001644292000491987 seconds
+toiler
+['copier', 'copper', 'cooper', 'cooler', 'tooler', 'toiler']
+['toiled', 'tailed', 'railed', 'rained', 'ruined']
+Length of biBFS ladder: 11  Each word in ladder: ['copier', 'copper', 'cooper', 'cooler', 'tooler', 'toiler', 'toiled', 'tailed', 'railed', 'rained', 'ruined'] ,  Time: 0.00018512499991629738 seconds
+
+Length of BFS ladder: 13  Each word in ladder: ['ballot', 'ballet', 'balled', 'balked', 'basked', 'basted', 'busted', 'busied', 'buried', 'burped', 'bumped', 'bummed', 'summed'] ,  Time: 0.002991499999552616 seconds
+busted
+['ballot', 'ballet', 'balled', 'balked', 'basked', 'basted', 'busted']
+['busied', 'buried', 'burped', 'bumped', 'bummed', 'summed']
+Length of biBFS ladder: 13  Each word in ladder: ['ballot', 'ballet', 'balled', 'balked', 'basked', 'basted', 'busted', 'busied', 'buried', 'burped', 'bumped', 'bummed', 'summed'] ,  Time: 0.0006933750009920914 seconds
+
+Length of BFS ladder: 14  Each word in ladder: ['sloped', 'scoped', 'scored', 'scared', 'seared', 'seamed', 'seemed', 'seeded', 'seeder', 'sender', 'sander', 'sadder', 'sadden', 'sudden'] ,  Time: 0.0033898330002557486 seconds
+seeded
+['sloped', 'scoped', 'scored', 'scared', 'seared', 'seamed', 'seemed', 'seeded']
+['seeder', 'sender', 'sander', 'sadder', 'sadden', 'sudden']
+Length of biBFS ladder: 14  Each word in ladder: ['sloped', 'scoped', 'scored', 'scared', 'seared', 'seamed', 'seemed', 'seeded', 'seeder', 'sender', 'sander', 'sadder', 'sadden', 'sudden'] ,  Time: 0.0006624999987252522 seconds
+
+Length of BFS ladder: 15  Each word in ladder: ['bilked', 'bulked', 'sulked', 'sucked', 'socked', 'soaked', 'soared', 'shared', 'shares', 'sharks', 'shacks', 'shocks', 'chocks', 'clocks', 'cloaks'] ,  Time: 0.0032757090011727996 seconds
+shared
+['bilked', 'bulked', 'sulked', 'sucked', 'socked', 'soaked', 'soared', 'shared']
+['shares', 'sharks', 'shacks', 'shocks', 'chocks', 'clocks', 'cloaks']
+Length of biBFS ladder: 15  Each word in ladder: ['bilked', 'bulked', 'sulked', 'sucked', 'socked', 'soaked', 'soared', 'shared', 'shares', 'sharks', 'shacks', 'shocks', 'chocks', 'clocks', 'cloaks'] ,  Time: 0.002493500000127824 seconds
+
+Length of BFS ladder: 16  Each word in ladder: ['forges', 'forged', 'forked', 'corked', 'cooked', 'cooled', 'coiled', 'soiled', 'smiled', 'smiles', 'stiles', 'stills', 'spills', 'spells', 'smells', 'smelly'] ,  Time: 0.003427042000112124 seconds
+smiled
+['forges', 'forged', 'forked', 'corked', 'cooked', 'cooled', 'coiled', 'soiled', 'smiled']
+['smiles', 'stiles', 'stills', 'spills', 'spells', 'smells', 'smelly']
+Length of biBFS ladder: 16  Each word in ladder: ['forges', 'forged', 'forked', 'corked', 'cooked', 'cooled', 'coiled', 'soiled', 'smiled', 'smiles', 'stiles', 'stills', 'spills', 'spells', 'smells', 'smelly'] ,  Time: 0.0009420410005986923 seconds
+
+Length of BFS ladder: 17  Each word in ladder: ['sinked', 'linked', 'licked', 'picked', 'pecked', 'peaked', 'beaked', 'braked', 'braced', 'traced', 'traces', 'tracks', 'cracks', 'crocks', 'croaks', 'creaks', 'breaks'] ,  Time: 0.0033609170004638145 seconds
+braced
+['sinked', 'linked', 'licked', 'picked', 'pecked', 'peaked', 'beaked', 'braked', 'braced']
+['braces', 'traces', 'tracks', 'cracks', 'crocks', 'croaks', 'creaks', 'breaks']
+Length of biBFS ladder: 17  Each word in ladder: ['sinked', 'linked', 'licked', 'picked', 'pecked', 'peaked', 'beaked', 'braked', 'braced', 'braces', 'traces', 'tracks', 'cracks', 'crocks', 'croaks', 'creaks', 'breaks'] ,  Time: 0.0016241659996012459 seconds
+
+Length of BFS ladder: 18  Each word in ladder: ['blinds', 'blinks', 'blanks', 'planks', 'planes', 'plates', 'slates', 'slated', 'seated', 'sealed', 'sealer', 'seller', 'teller', 'tiller', 'miller', 'milder', 'molder', 'molded'] ,  Time: 0.0033075000010285294 seconds
+sealed
+['blinds', 'blinks', 'blanks', 'planks', 'planes', 'plates', 'slates', 'slated', 'seated', 'sealed']
+['sealer', 'seller', 'teller', 'tiller', 'miller', 'milder', 'molder', 'molded']
+Length of biBFS ladder: 18  Each word in ladder: ['blinds', 'blinks', 'blanks', 'planks', 'planes', 'plates', 'slates', 'slated', 'seated', 'sealed', 'sealer', 'seller', 'teller', 'tiller', 'miller', 'milder', 'molder', 'molded'] ,  Time: 0.0017191249989991775 seconds
+
+Length of BFS ladder: 22  Each word in ladder: ['horned', 'hornet', 'cornet', 'corner', 'corder', 'carder', 'harder', 'herder', 'header', 'heaver', 'beaver', 'braver', 'braves', 'braces', 'traces', 'tracks', 'tricks', 'pricks', 'prices', 'prides', 'brides', 'bribes'] ,  Time: 0.0033110839995060815 seconds
+braver
+['horned', 'hornet', 'cornet', 'corner', 'corder', 'carder', 'harder', 'herder', 'header', 'heaver', 'beaver', 'braver']
+['braves', 'braces', 'traces', 'tracks', 'tricks', 'pricks', 'prices', 'prides', 'brides', 'bribes']
+Length of biBFS ladder: 22  Each word in ladder: ['horned', 'hornet', 'cornet', 'corner', 'corder', 'carder', 'harder', 'herder', 'header', 'heaver', 'beaver', 'braver', 'braves', 'braces', 'traces', 'tracks', 'tricks', 'pricks', 'prices', 'prides', 'brides', 'bribes'] ,  Time: 0.001828499998737243 seconds
+
+Length of BFS ladder:0  Time: 0.003545957999449456 seconds
+Length of biBFS ladder:0  Time: 0.0006471670003520558 seconds
+
